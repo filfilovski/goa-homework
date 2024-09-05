@@ -1,0 +1,1 @@
+Print ( მე არ მიყვარს ხილი) # type: ignore
